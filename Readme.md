@@ -8,8 +8,8 @@
 * day2(0707) - 파이썬(클래스), sql
 
   [파이썬_복습]()
-  [SQL_복스](https://github.com/bokyungJ/AI_school/blob/master/0707_SQL%EB%B3%B5%EC%8A%B5.ipynb)
+  [SQL_복습](https://github.com/bokyungJ/AI_school/blob/master/0707_SQL%EB%B3%B5%EC%8A%B5.ipynb)
 * day3(0708) - sql(뒷부분), 라이브러리, numpy
-
+* day4(0709) - numpy, pandas
 
 
