@@ -15,7 +15,11 @@
 * 지도만들기
 * 머신러닝 개요 - 머신러닝 종류, 모델링 과정, 머신러닝 진행 과정
 * scikit-learn
-* 지도학습 - KNN, Linear Regression
+* 지도학습
+ - KNN
+ - Linear Regression
+ - Ridge, Lasso, ElasticNet
+ - Linear Classifier
 
 ### 양지웅T - 알고리즘
 * 나머지와 몫이 같은 값의 합
